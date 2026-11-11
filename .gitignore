@@ -7,3 +7,4 @@
 *.pdf
 !slike.pdf
 *.toc
+*synctex(busy)
