@@ -6,3 +6,4 @@
 *.synctex.gz
 *.pdf
 !slike.pdf
+*.toc
